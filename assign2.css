@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+.child{
+    box-shadow: 3px 3px 3px solid red;
+    width: vw;
+    height: 20vh;
+    color:rgb(140, 8, 8);
+    /* font-weight:bolder; */
+    /* font-style: bold; */
+    text-align: center;
+    background-color:rgb(248, 91, 91);
+    display:flex;
+    align-items:center;
+    justify-content:center ;
+    margin-left: 3px;
+
+}
